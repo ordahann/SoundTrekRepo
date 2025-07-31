@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4d8ca5fc-6030-4565-b56a-1551c815b930" alt="SOUNDTREK Logo" width="200" height="200">
+<img width="1206" height="2622" alt="Untitled" src="https://github.com/user-attachments/assets/887865e2-a49e-4b35-9b0c-cb8c4bdcc84e" /><p align="center">
+  <img width="200" height="200" alt="SOUNDTREK_LOGO_LIGHT_NAME" src="https://github.com/user-attachments/assets/4a890062-e3dd-4ffc-a115-e3fce0e0ab2c" />
 </p>
-
 
 # SoundTrek
 Is a mobile application that transforms sightseeing into an immersive experience by providing **personalized audio explanations for landmarks** around you.  
@@ -36,67 +35,63 @@ The app combines **location-based recommendations, AI-powered route suggestions,
 ## Main Screens
 
 - **Login / Sign Up**
-
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 37 12" src="https://github.com/user-attachments/assets/a0a4daef-2227-40eb-86f7-ec49b2f53044" />
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 37 24" src="https://github.com/user-attachments/assets/59db15be-5e85-4fc5-8d01-4846770699d3" />
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 37 30" src="https://github.com/user-attachments/assets/69c31060-fc99-44fe-a54d-244c1be0392f" />
   
+  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 44 33" src="https://github.com/user-attachments/assets/6ac2ae3c-da1b-4fdb-a4d2-8fc01db4721f" />
+  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 44 46" src="https://github.com/user-attachments/assets/8c5dabf1-c37c-4a32-a281-71e56b99c846" />
+  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 44 55" src="https://github.com/user-attachments/assets/86db0c6b-6d2c-4eac-93c1-c73677c6a81b" />
+
 - **Home** – Grid of attractions (All / Recommended)
+
+  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 46 09" src="https://github.com/user-attachments/assets/c8e0857e-62bc-40d3-a8f6-b36f26db0352" />
+  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 48 47" src="https://github.com/user-attachments/assets/2359f297-635c-41c7-b671-7839e8a46c8d" />
+
   
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 39 46" src="https://github.com/user-attachments/assets/81d7bd31-62cd-4d16-a3ea-a56c262fd15e" />
-
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 40 47" src="https://github.com/user-attachments/assets/f73096eb-3111-4831-af09-444bbafb1527" />
-
 - **Search** – Search and filter attractions
 
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 41 13" src="https://github.com/user-attachments/assets/2529cca2-cde9-4dc6-9313-90ff0f32d053" />
-
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 41 41" src="https://github.com/user-attachments/assets/6ac6ca2b-d1f6-40d1-a636-2fe61a7fd8c3" />
+  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 48 33" src="https://github.com/user-attachments/assets/37830acd-d97c-4dd3-86b0-a098a52f183e" />
+  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 49 25" src="https://github.com/user-attachments/assets/67124e5c-e4bc-47cf-ad4e-92be5f3dba47" />
 
 - **Landmark Details** – Description, images, and Listen option
 
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 42 21" src="https://github.com/user-attachments/assets/b157bb20-c97a-4bcc-ab35-aa2d34053334" />
+  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 49 46" src="https://github.com/user-attachments/assets/454355c8-c948-4c7d-b292-d108593c9cec" />
 
   - **Language Selection**
 
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 42 41" src="https://github.com/user-attachments/assets/7c6311a7-7ad7-4839-9032-85c296bdf8f3" />
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 50 00" src="https://github.com/user-attachments/assets/e90940f0-306a-4a77-9bfe-6c6b3609be8c" />
 
-  - **Genre Selection**
- 
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 42 58" src="https://github.com/user-attachments/assets/26103136-10bc-4407-a654-4380aa3585c5" />
+  - **Genre Selection**ֿ
+
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 50 29" src="https://github.com/user-attachments/assets/97e69c3c-3e24-44ed-bf1b-25cb4116e222" />
 
     - **Audio Player**
-
-      <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 43 45" src="https://github.com/user-attachments/assets/af58db13-d926-4d74-8dfa-0508ecb248b3" />
-
-      <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 44 06" src="https://github.com/user-attachments/assets/cf21548e-d2c7-4b38-a11c-72e0f61087bb" />
-
+      
+      <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 50 42" src="https://github.com/user-attachments/assets/7f760747-66ed-4c3c-81f5-fc1b5585baf5" />
+      <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 50 47" src="https://github.com/user-attachments/assets/3392fbca-c4ac-4228-8b8a-f6ab450a21fb" />
+     
 - **Route Planning**
 
-  <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 44 42" src="https://github.com/user-attachments/assets/a5f3127e-76e1-484b-b106-21d436b25ec1" />
+  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 51 43" src="https://github.com/user-attachments/assets/1e5447ec-dbc8-41c6-a4bb-d59791067d96" />
 
   - Custom Route
+
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 51 53" src="https://github.com/user-attachments/assets/6fc74244-c115-49f4-91fb-a4c29fd1c99f" />
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 52 15" src="https://github.com/user-attachments/assets/0644061b-7e0d-44bb-859b-9b850b3db696" />
     
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 45 44" src="https://github.com/user-attachments/assets/04e1d5bc-a0df-4c55-b10b-28a432d75368" />
-
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 45 28" src="https://github.com/user-attachments/assets/e0c81671-2a22-48e0-87cf-d70f344ca92c" />
-
   - Recommended Route
 
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 50 06" src="https://github.com/user-attachments/assets/12932c56-7b6d-48b5-ae48-2e6a630a246c" />
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 53 12" src="https://github.com/user-attachments/assets/6c330c30-6ee7-47ae-8a66-fd1ed6b69223" />
 
   - Edit Route
 
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 50 20" src="https://github.com/user-attachments/assets/b2948f81-5521-4a53-a684-1d53a81baa09" />
+    <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 17 53 28" src="https://github.com/user-attachments/assets/a033aef7-08a2-4440-90a8-b51db4bad6eb" />
 
 - **Profile**
   
-    <img width="120" height="262" alt="Untitled" src="https://github.com/user-attachments/assets/593854ac-d9b8-4932-9ece-445a9bd14493" />
-   
+   <img width="120" height="262" alt="Untitled" src="https://github.com/user-attachments/assets/b4e4780f-8edb-455a-9ce9-0a4a63f9b54d" />
+
   - Edit selected parts of the profile
     
-    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 57 07" src="https://github.com/user-attachments/assets/039a488f-37b8-419d-b27c-a913b4c4b7eb" />
-
+    <img width="120" height="262" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-31 at 15 57 07" src="https://github.com/user-attachments/assets/ff8c1d32-69d6-4a45-a6e3-650bcdfe140c" />
 
 ---
 
